@@ -1,0 +1,630 @@
+09-Aug-2016 07:56:46.125 SEVERE [http-nio-15989-exec-242] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 07:58:50.174 SEVERE [http-nio-15989-exec-157] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:08:59.570 SEVERE [http-nio-15989-exec-21] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:09:02.415 SEVERE [http-nio-15989-exec-83] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:09:20.388 SEVERE [http-nio-15989-exec-165] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:09:33.301 SEVERE [http-nio-15989-exec-22] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:10:21.787 SEVERE [http-nio-15989-exec-196] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:10:55.550 SEVERE [http-nio-15989-exec-11] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:22:47.310 SEVERE [http-nio-15989-exec-266] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:23:49.484 SEVERE [http-nio-15989-exec-162] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:24:40.462 SEVERE [http-nio-15989-exec-151] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:25:14.012 SEVERE [http-nio-15989-exec-157] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:25:19.019 SEVERE [http-nio-15989-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:25:19.848 SEVERE [http-nio-15989-exec-167] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:25:58.526 SEVERE [http-nio-15989-exec-219] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:26:07.045 SEVERE [http-nio-15989-exec-146] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:26:45.210 SEVERE [http-nio-15989-exec-101] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:27:19.002 SEVERE [http-nio-15989-exec-279] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:28:05.970 SEVERE [http-nio-15989-exec-135] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:28:15.355 SEVERE [http-nio-15989-exec-173] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:28:19.226 SEVERE [http-nio-15989-exec-245] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:29:02.614 SEVERE [http-nio-15989-exec-268] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:30:23.971 SEVERE [http-nio-15989-exec-90] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:30:28.011 SEVERE [http-nio-15989-exec-216] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:30:36.557 SEVERE [http-nio-15989-exec-12] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:30:37.495 SEVERE [http-nio-15989-exec-187] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:30:44.802 SEVERE [http-nio-15989-exec-140] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:30:51.032 SEVERE [http-nio-15989-exec-197] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:33:45.448 SEVERE [http-nio-15989-exec-85] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:34:15.423 SEVERE [http-nio-15989-exec-175] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:36:37.567 SEVERE [http-nio-15989-exec-72] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:38:21.590 SEVERE [http-nio-15989-exec-135] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:43:25.355 SEVERE [http-nio-15989-exec-195] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:44:55.792 SEVERE [http-nio-15989-exec-104] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:47:05.235 SEVERE [http-nio-15989-exec-63] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:49:49.097 SEVERE [http-nio-15989-exec-113] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:49:51.936 SEVERE [http-nio-15989-exec-216] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:49:53.435 SEVERE [http-nio-15989-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:50:04.576 SEVERE [http-nio-15989-exec-115] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:51:55.375 SEVERE [http-nio-15989-exec-232] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:52:33.650 SEVERE [http-nio-15989-exec-286] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:55:45.807 SEVERE [http-nio-15989-exec-190] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:57:15.475 SEVERE [http-nio-15989-exec-233] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 08:58:53.132 SEVERE [http-nio-15989-exec-264] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 09:02:05.511 SEVERE [http-nio-15989-exec-150] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 09:05:41.164 SEVERE [http-nio-15989-exec-213] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:16:17.360 SEVERE [http-nio-15989-exec-286] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:16:30.185 SEVERE [http-nio-15989-exec-160] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:16:50.364 SEVERE [http-nio-15989-exec-280] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:19:17.585 SEVERE [http-nio-15989-exec-252] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:23:17.619 SEVERE [http-nio-15989-exec-194] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:47:29.562 SEVERE [http-nio-15989-exec-198] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:47:32.338 SEVERE [http-nio-15989-exec-286] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 10:47:33.364 SEVERE [http-nio-15989-exec-232] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:03:42.272 SEVERE [http-nio-15989-exec-113] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:20:33.250 SEVERE [http-nio-15989-exec-94] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:212)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3952)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3957)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4875)
+	at org.kunteng.auth.utils.RedisGuavaCache.getCache(RedisGuavaCache.java:44)
+	at org.kunteng.auth.service.impl.AuthServiceImpl.getLoginPortal(AuthServiceImpl.java:55)
+	at org.kunteng.auth.controller.Wifidog.login(Wifidog.java:131)
+	at sun.reflect.GeneratedMethodAccessor56.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:222)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:814)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:737)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:618)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:725)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.kunteng.auth.filter.URLFilter.doFilter(URLFilter.java:33)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:610)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:537)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1085)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:658)
+	at org.apache.coyote.http11.Http11NioProtocol$Http11ConnectionHandler.process(Http11NioProtocol.java:222)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1556)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1513)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+09-Aug-2016 11:29:24.013 SEVERE [http-nio-15989-exec-190] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:34:19.981 SEVERE [http-nio-15989-exec-24] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:35:44.117 SEVERE [http-nio-15989-exec-72] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:35:44.874 SEVERE [http-nio-15989-exec-246] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:35:46.215 SEVERE [http-nio-15989-exec-268] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:57:02.176 SEVERE [http-nio-15989-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 11:57:09.177 SEVERE [http-nio-15989-exec-91] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:05:46.701 SEVERE [http-nio-15989-exec-163] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:06:36.087 SEVERE [http-nio-15989-exec-213] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:07:22.348 SEVERE [http-nio-15989-exec-124] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:12:20.969 SEVERE [http-nio-15989-exec-141] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:15:23.580 SEVERE [http-nio-15989-exec-154] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:15:26.405 SEVERE [http-nio-15989-exec-198] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:19:15.948 SEVERE [http-nio-15989-exec-44] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:21:46.589 SEVERE [http-nio-15989-exec-212] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:26:39.443 SEVERE [http-nio-15989-exec-90] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:27:51.017 SEVERE [http-nio-15989-exec-25] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:27:52.868 SEVERE [http-nio-15989-exec-245] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:27:53.109 SEVERE [http-nio-15989-exec-108] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:29:41.250 SEVERE [http-nio-15989-exec-167] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:33:32.836 SEVERE [http-nio-15989-exec-286] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:34:15.834 SEVERE [http-nio-15989-exec-145] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:34:16.127 SEVERE [http-nio-15989-exec-219] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:34:16.388 SEVERE [http-nio-15989-exec-197] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:34:17.056 SEVERE [http-nio-15989-exec-193] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:34:17.883 SEVERE [http-nio-15989-exec-101] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:34:23.660 SEVERE [http-nio-15989-exec-187] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:38:33.585 SEVERE [http-nio-15989-exec-190] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:38:38.044 SEVERE [http-nio-15989-exec-26] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:39:07.069 SEVERE [http-nio-15989-exec-32] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:40:13.877 SEVERE [http-nio-15989-exec-260] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:40:31.256 SEVERE [http-nio-15989-exec-50] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:40:32.140 SEVERE [http-nio-15989-exec-64] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:40:34.051 SEVERE [http-nio-15989-exec-40] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:40:34.842 SEVERE [http-nio-15989-exec-173] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:42:56.760 SEVERE [http-nio-15989-exec-25] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:45:16.749 SEVERE [http-nio-15989-exec-202] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:51:41.284 SEVERE [http-nio-15989-exec-235] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:56:39.751 SEVERE [http-nio-15989-exec-225] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:57:17.818 SEVERE [http-nio-15989-exec-179] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:57:18.867 SEVERE [http-nio-15989-exec-119] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:57:38.849 SEVERE [http-nio-15989-exec-176] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:58:49.749 SEVERE [http-nio-15989-exec-28] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:58:50.350 SEVERE [http-nio-15989-exec-197] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:58:50.667 SEVERE [http-nio-15989-exec-176] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:58:52.601 SEVERE [http-nio-15989-exec-242] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:58:53.502 SEVERE [http-nio-15989-exec-72] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:58:54.128 SEVERE [http-nio-15989-exec-109] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 12:58:58.070 SEVERE [http-nio-15989-exec-180] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:06:06.911 SEVERE [http-nio-15989-exec-129] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:06:11.681 SEVERE [http-nio-15989-exec-274] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:06:41.297 SEVERE [http-nio-15989-exec-282] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:07:06.104 SEVERE [http-nio-15989-exec-286] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:07:06.708 SEVERE [http-nio-15989-exec-270] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:08:12.380 SEVERE [http-nio-15989-exec-247] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:10:04.420 SEVERE [http-nio-15989-exec-64] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:10:59.175 SEVERE [http-nio-15989-exec-31] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:11:36.257 SEVERE [http-nio-15989-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:11:39.093 SEVERE [http-nio-15989-exec-235] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:11:50.496 SEVERE [http-nio-15989-exec-26] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:11:51.641 SEVERE [http-nio-15989-exec-157] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:12:17.398 SEVERE [http-nio-15989-exec-196] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:16:14.579 SEVERE [http-nio-15989-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:20:01.852 SEVERE [http-nio-15989-exec-80] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:20:08.309 SEVERE [http-nio-15989-exec-109] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:20:21.850 SEVERE [http-nio-15989-exec-210] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:20:34.673 SEVERE [http-nio-15989-exec-85] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:25:02.255 SEVERE [http-nio-15989-exec-234] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 13:43:03.886 SEVERE [http-nio-15989-exec-234] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:03:53.598 SEVERE [http-nio-15989-exec-117] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:13:00.333 SEVERE [http-nio-15989-exec-286] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:18:17.443 SEVERE [http-nio-15989-exec-254] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:30:47.847 SEVERE [http-nio-15989-exec-278] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:34:28.835 SEVERE [http-nio-15989-exec-147] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:35:03.600 SEVERE [http-nio-15989-exec-279] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:35:20.941 SEVERE [http-nio-15989-exec-243] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:39:16.913 SEVERE [http-nio-15989-exec-217] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:40:54.941 SEVERE [http-nio-15989-exec-83] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:41:21.092 SEVERE [http-nio-15989-exec-268] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:41:21.360 SEVERE [http-nio-15989-exec-93] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:41:21.548 SEVERE [http-nio-15989-exec-67] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:43:58.279 SEVERE [http-nio-15989-exec-21] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:48:42.430 SEVERE [http-nio-15989-exec-141] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:50:25.976 SEVERE [http-nio-15989-exec-242] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:52:52.941 SEVERE [http-nio-15989-exec-184] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:53:58.258 SEVERE [http-nio-15989-exec-187] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:56:56.082 SEVERE [http-nio-15989-exec-116] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:57:56.304 SEVERE [http-nio-15989-exec-245] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:22.344 SEVERE [http-nio-15989-exec-73] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:22.981 SEVERE [http-nio-15989-exec-22] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:23.837 SEVERE [http-nio-15989-exec-157] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:24.609 SEVERE [http-nio-15989-exec-81] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:24.918 SEVERE [http-nio-15989-exec-196] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:25.618 SEVERE [http-nio-15989-exec-273] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:26.124 SEVERE [http-nio-15989-exec-184] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:26.372 SEVERE [http-nio-15989-exec-115] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:26.587 SEVERE [http-nio-15989-exec-50] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 14:59:28.301 SEVERE [http-nio-15989-exec-129] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:02:13.113 SEVERE [http-nio-15989-exec-40] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:03:10.948 SEVERE [http-nio-15989-exec-96] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:07:55.609 SEVERE [http-nio-15989-exec-125] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:07:56.060 SEVERE [http-nio-15989-exec-32] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:07:56.894 SEVERE [http-nio-15989-exec-3] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:07:57.358 SEVERE [http-nio-15989-exec-124] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:49:36.870 SEVERE [http-nio-15989-exec-165] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 15:50:43.741 SEVERE [http-nio-15989-exec-66] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 16:28:41.428 SEVERE [http-nio-15989-exec-126] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 16:35:07.920 SEVERE [http-nio-15989-exec-279] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 16:54:24.723 SEVERE [http-nio-15989-exec-46] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 16:56:28.202 SEVERE [http-nio-15989-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 16:57:49.181 SEVERE [http-nio-15989-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:28:28.459 SEVERE [http-nio-15989-exec-15] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:28:31.144 SEVERE [http-nio-15989-exec-24] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:42:08.097 SEVERE [http-nio-15989-exec-67] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:42:08.372 SEVERE [http-nio-15989-exec-28] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:42:08.574 SEVERE [http-nio-15989-exec-184] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:42:08.728 SEVERE [http-nio-15989-exec-99] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:46:26.787 SEVERE [http-nio-15989-exec-278] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:52:36.225 SEVERE [http-nio-15989-exec-94] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:54:24.927 SEVERE [http-nio-15989-exec-246] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 17:55:47.361 SEVERE [http-nio-15989-exec-92] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:20:17.935 SEVERE [http-nio-15989-exec-32] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:24:26.758 SEVERE [http-nio-15989-exec-240] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:25:10.752 SEVERE [http-nio-15989-exec-282] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:29:54.200 SEVERE [http-nio-15989-exec-101] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:34:31.645 SEVERE [http-nio-15989-exec-122] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:47:03.194 SEVERE [http-nio-15989-exec-275] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:47:10.217 SEVERE [http-nio-15989-exec-125] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 18:48:03.512 SEVERE [http-nio-15989-exec-129] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:27:23.243 SEVERE [http-nio-15989-exec-219] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:33:35.989 SEVERE [http-nio-15989-exec-179] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:33:42.612 SEVERE [http-nio-15989-exec-150] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:33:54.864 SEVERE [http-nio-15989-exec-27] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:34:31.421 SEVERE [http-nio-15989-exec-265] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:37:03.013 SEVERE [http-nio-15989-exec-234] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:37:55.910 SEVERE [http-nio-15989-exec-228] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:44:07.155 SEVERE [http-nio-15989-exec-94] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
+09-Aug-2016 19:50:39.441 SEVERE [http-nio-15989-exec-221] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [SpringDispatcherServlet] in context with path [/] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+ java.lang.NullPointerException
+
