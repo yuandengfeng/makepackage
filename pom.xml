@@ -260,6 +260,12 @@
       <artifactId>elasticsearch</artifactId>
       <version>1.6.0</version>
     </dependency>
+
+    <!--<dependency>-->
+      <!--<groupId>org.elasticsearch</groupId>-->
+      <!--<artifactId>elasticsearch</artifactId>-->
+      <!--<version>2.1.1</version>-->
+    <!--</dependency>-->
     <dependency>
       <groupId>com.google.collections</groupId>
       <artifactId>google-collections</artifactId>
@@ -310,6 +316,7 @@
       <artifactId>jedis</artifactId>
       <version>2.5.1</version>
     </dependency>
+
 
   </dependencies>
   <build>

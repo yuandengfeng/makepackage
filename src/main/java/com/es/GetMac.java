@@ -10,6 +10,7 @@ import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.index.query.QueryStringQueryBuilder;
 import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHits;
+import org.elasticsearch.search.sort.SortOrder;
 import org.slf4j.LoggerFactory;
 
 import java.io.BufferedWriter;
@@ -59,6 +60,7 @@ public class GetMac implements Runnable {
         TransportClient client = ESClient.getTransportClient();
 //      SearchRequestBuilder result1 = client.prepareSearch("wifiauth").setTypes(type).setQuery(QueryBuilders.queryStringQuery("*").defaultField(filed).defaultOperator(QueryStringQueryBuilder.Operator.AND)).setFrom(0).setSize(size);
         SearchRequestBuilder result1 = client.prepareSearch(index).setTypes(type).setQuery(QueryBuilders.queryStringQuery("*").defaultField(filed).defaultOperator(QueryStringQueryBuilder.Operator.AND)).setFrom(from).setSize(size);//size为每次查询固定大小
+//        addSort("@timestamp", SortOrder.DESC);  //根据时间排序
         try {
             SearchResponse searchResponse = result1.execute().actionGet();
 //          a = json1.getHits().getTotalHits();
