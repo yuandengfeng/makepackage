@@ -13,7 +13,7 @@ import org.elasticsearch.index.query.QueryBuilders;
 /**
  * Created by yuandengfeng on 2016/10/19.
  */
-public class Main1Del {
+public class esDel {
 
     public static void main(String args[]) {
 
