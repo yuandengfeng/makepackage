@@ -73,10 +73,7 @@ public class MapDouble {
 
 	public static void main(String[] args) throws ParseException {
 
-
-//		String date="2016-11-19 11:22:33";
-//		System.out.println(dateToStamp(date));
-//		System.out.println(stampToDate(dateToStamp(date)));
+		
 
 		for(int i=0;i<10;i++){
 			if (i==0 || i==8)
