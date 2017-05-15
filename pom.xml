@@ -469,6 +469,7 @@
             <!--<mainClass>h2.Main2</mainClass>-->
             <!--<mainClass>sougouscel.ParseSogo</mainClass>-->
             <mainClass>com.es.esShopCount</mainClass>
+
           </manifest>
         </archive>
       </configuration>
