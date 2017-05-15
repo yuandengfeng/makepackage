@@ -73,7 +73,7 @@ public class MapDouble {
 
 	public static void main(String[] args) throws ParseException {
 
-		
+
 
 		for(int i=0;i<10;i++){
 			if (i==0 || i==8)
