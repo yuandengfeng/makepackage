@@ -1,0 +1,17 @@
+.idea/
+.settings/
+target/
+build/
+
+*.class
+# Package Files #
+*.iml
+*.ipr
+*.iws
+document/
+.classpath
+.project
+.springBeans
+release.zip
+WebContent/META-INF/MANIFEST.MF
+src/main/webapp/META-INF/MANIFEST.MF
