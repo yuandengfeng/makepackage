@@ -2,7 +2,8 @@
 .settings/
 target/
 build/
-
+.out/
+.target/
 *.class
 # Package Files #
 *.iml
