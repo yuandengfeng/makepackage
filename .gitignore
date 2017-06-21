@@ -5,6 +5,7 @@ build/
 .out/
 .target/
 *.class
+*.jar
 # Package Files #
 *.iml
 *.ipr
