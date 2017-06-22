@@ -16,4 +16,3 @@ document/
 .springBeans
 release.zip
 WebContent/META-INF/MANIFEST.MF
-src/main/webapp/META-INF/MANIFEST.MF
