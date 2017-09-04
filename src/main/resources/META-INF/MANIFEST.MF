@@ -36,5 +36,5 @@ Class-Path: lib/cglib-2.1_3.jar lib/spring-rabbit-1.1.1.RELEASE.jar li
  .1.4.RELEASE.jar lib/commons-lang3-3.4.jar lib/lucene-join-4.10.4.jar
   lib/slf4j-log4j12-1.7.7.jar lib/activation-1.1.jar lib/ejb3-persiste
  nce-1.0.1.GA.jar
-Main-Class: jdbc.SelectAndInsert
+Main-Class: Main.Test3
 

@@ -44,7 +44,7 @@ public class CompressUtil {
      * @throws ZipException 压缩文件有损坏或者解压缩失败抛出 
      */  
     public static File [] unzip(String zip, String passwd) throws ZipException {  
-        File zipFile = new File(zip);  
+        File zipFile = new File(zip);
         File parentDir = zipFile.getParentFile();  
         return unzip(zipFile, parentDir.getAbsolutePath(), passwd);  
     }  
@@ -209,7 +209,11 @@ public class CompressUtil {
     }  
   
     public static void main(String[] args) {  
-        zip("d:\\test\\cc", "d:\\test\\cc.zip", "11");  
+//        zip("d:\\test\\cc", "d:\\test\\cc.zip", "11");
+        zip("F:\\test\\a.txt","F:\\test\\qq.zip",null);
+        zip("F:\\test\\b.txt","F:\\test\\qq.zip",null);
+        zip("F:\\test\\c.txt","F:\\test\\qq.zip",null);
+        zip("F:\\test\\d.txt","F:\\test\\qq.zip",null);
 //      try {  
 //          File[] files = unzip("d:\\test\\汉字.zip", "aa");  
 //          for (int i = 0; i < files.length; i++) {  
