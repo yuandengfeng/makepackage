@@ -14,5 +14,6 @@ document/
 .classpath
 .project
 .springBeans
+/target/
 release.zip
 WebContent/META-INF/MANIFEST.MF
