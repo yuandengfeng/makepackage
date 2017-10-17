@@ -4,9 +4,9 @@ target/
 build/
 out/
 target/
+# Package Files #
 *.class
 *.jar
-# Package Files #
 *.iml
 *.ipr
 *.iws
