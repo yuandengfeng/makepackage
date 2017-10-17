@@ -24,13 +24,14 @@ public class MccMain {
             Connection conn = DriverManager.getConnection("jdbc:mysql://192.168.20.83/yunpos619?useUnicode=true&characterEncoding=UTF-8", "yunpos619", "yunpos619");
             conn.setAutoCommit(false); //设置是否自动提交
 //            String select_category = "select DISTINCT category from fuymccode ";
-            String select_category = "select DISTINCT province from fuyaddresscode ";
+//            String select_category = "select DISTINCT province from fuyaddresscode ";
+            String select_category = "select DISTINCT cate1 from fuyweixincode ";
 
             PreparedStatement psts_category = conn.prepareStatement(select_category);
             System.out.println(psts_category.toString());
             ResultSet rs =  psts_category.executeQuery();
 
-            File mccArray=new File("E:\\坤腾\\a开票程序\\富友\\city.min.js");
+            File mccArray=new File("E:\\坤腾\\a开票程序\\富友\\fuyweixincode.min.js");
             JSONObject citylist =new JSONObject();
             JSONArray array=new JSONArray();
             while (rs.next()){
@@ -39,7 +40,9 @@ public class MccMain {
                 JSONObject p=new JSONObject();
                 p.put("p",rs.getString(1));
 
-                String select_classify = "select DISTINCT city from fuyaddresscode where province= '"+rs.getString(1)+"'";
+//                String select_classify = "select DISTINCT city from fuyaddresscode where province= '"+rs.getString(1)+"'";
+                String select_classify = "select DISTINCT cate2 from fuyweixincode where cate1= '"+rs.getString(1)+"'";
+
                 PreparedStatement psts_classify = conn.prepareStatement(select_classify);
                 ResultSet rs_classify =  psts_classify.executeQuery();
                 System.out.println("classify ========== ");
@@ -49,7 +52,8 @@ public class MccMain {
                     JSONObject n=new JSONObject();
                     n.put("n",rs_classify.getString(1));
 
-                    String select_shopclass = "select DISTINCT county from fuyaddresscode where province= '"+rs.getString(1)+"' and city ='"+rs_classify.getString(1)+"'";
+//                    String select_shopclass = "select DISTINCT county from fuyaddresscode where province= '"+rs.getString(1)+"' and city ='"+rs_classify.getString(1)+"'";
+                    String select_shopclass = "select DISTINCT cate3 from fuyweixincode where cate1= '"+rs.getString(1)+"' and cate2 ='"+rs_classify.getString(1)+"'";
                     PreparedStatement psts_shopclass = conn.prepareStatement(select_shopclass);
                     ResultSet rs_shopclass =  psts_shopclass.executeQuery();
                     System.out.println("shopclass ========== ");

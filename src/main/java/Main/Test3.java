@@ -4,7 +4,9 @@ import java.io.File;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -33,12 +35,25 @@ public class Test3 {
 
 //        DateFormat df = new SimpleDateFormat("yyMMDDHHmmss");
 //        Date today = new Date();
-        String id="11";
+//        String id="11";
 //        Random random=new Random();
 //
 //        int result=random.nextInt((int)Math.pow(10,12-id.length()));
 //        System.out.println(id+result);
 
-        System.out.println(id+getRandomStringByLength(12-id.length()));
+//        System.out.println(id+getRandomStringByLength(12-id.length()));
+
+        List<String> list1 = new ArrayList<String>();
+        list1.add("A");
+        list1.add("B");
+        List<String> list2 = new ArrayList<String>();
+        list2.add("C");
+        list2.add("D");
+        // 并集
+        list1.addAll(list2);
+        System.out.println(list1);
+        list2.clear();
+        System.out.println(list1);
+
     }
 }
