@@ -1,9 +1,6 @@
 package com.es;
 
-import com.es.util.DateUtil;
-import com.es.util.ESClient;
-import com.es.util.Global;
-import com.es.util.MapDouble;
+import com.es.util.*;
 import org.elasticsearch.action.search.SearchRequestBuilder;
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.client.Client;
@@ -25,12 +22,12 @@ public class ShopFlowTask  {
 
 
     public static void main(String[] args) throws Throwable {
-        excute();
+        excute(args[0]);
     }
 
-    public static void excute(){
+    public static void excute(String date){
 //        String yesterday= DateUtil.getDayOfYesterday();
-        String yesterday= "2017-11-15";
+        String yesterday= date;
         System.out.println(yesterday);
         long  start = getDay(yesterday,0);
         long  end = getDay(yesterday,1);
@@ -58,6 +55,12 @@ public class ShopFlowTask  {
         MapDouble sty4=new MapDouble();
         MapDouble sty5=new MapDouble();
         MapDouble sty6=new MapDouble();
+        MapCount count1=new MapCount();
+        MapCount count2=new MapCount();
+        MapCount count3=new MapCount();
+        MapCount count4=new MapCount();
+        MapCount count5=new MapCount();
+        MapCount count6=new MapCount();
 //        遍历查询结果
         try {
             SearchRequestBuilder result = client.prepareSearch(Global.getConfig("index")).setTypes("record").setQuery(query).setFrom(0).setSize((int)a);
@@ -76,21 +79,27 @@ public class ShopFlowTask  {
                 switch (paystyle) {
                     case "1":
                         sty1.put(enterid,money);
+                        count1.put(enterid);
                         break;
                     case "2":
                         sty2.put(enterid,money);
+                        count2.put(enterid);
                         break;
                     case "3":
                         sty3.put(enterid,money);
+                        count3.put(enterid);
                         break;
                     case "4":
                         sty4.put(enterid,money);
+                        count4.put(enterid);
                         break;
                     case "5":
                         sty5.put(enterid,money);
+                        count5.put(enterid);
                         break;
                     case "6":
                         sty6.put(enterid,money);
+                        count6.put(enterid);
                         break;
                     default:
                         System.out.println(paystyle);
@@ -123,15 +132,14 @@ public class ShopFlowTask  {
 
 
             connection.setAutoCommit(false); //设置是否自动提交
-            String insert_sql = "insert into shop_date_money(date,name,shopno,money,channel,sty1,sty2,sty3,sty4,sty5,sty6) "
-                    + "values (?,?,?,?,?,?,?,?,?,?,?)";
+            String insert_sql = "insert into shop_date_money(date,name,shopno,money,channel,sty1,sty2,sty3,sty4,sty5,sty6,count1,count2,count3,count4,count5,count6) "
+                    + "values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
 
             prepareStatement = connection.prepareStatement(insert_sql);
 
             int count = 0;
 //            for (Map.Entry<String, String> entry : enterids.entrySet()) {
             for (Map.Entry<String, String> entry : channel.entrySet()) {
-                count++;
                 String key=entry.getKey();
                 if(moneys.get(key)==0.0)
                     continue;
@@ -146,8 +154,14 @@ public class ShopFlowTask  {
                 prepareStatement.setString(9, sty4.get(key)+"");
                 prepareStatement.setString(10, sty5.get(key)+"");
                 prepareStatement.setString(11,sty6.get(key)+"");
-
+                prepareStatement.setString(12, count1.get(key)+"");
+                prepareStatement.setString(13, count2.get(key)+"");
+                prepareStatement.setString(14, count3.get(key)+"");
+                prepareStatement.setString(15, count4.get(key)+"");
+                prepareStatement.setString(16, count5.get(key)+"");
+                prepareStatement.setString(17, count6.get(key)+"");
                 prepareStatement.addBatch();  // 加入批量处理
+                count++;
                 if(count%20==0)
                 {
                     prepareStatement.executeBatch(); // 执行批量处理

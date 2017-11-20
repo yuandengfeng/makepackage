@@ -38,5 +38,5 @@ Class-Path: lib/mysql-connector-java-5.1.17.jar lib/commons-lang3-3.4.
  .jar lib/lucene-sandbox-4.10.4.jar lib/ehcache-1.2.3.jar lib/spring-t
  x-4.1.4.RELEASE.jar lib/lucene-core-4.10.4.jar lib/hibernate-3.2.6.ga
  .jar lib/spring-amqp-1.1.1.RELEASE.jar lib/antlr-2.7.6.jar
-Main-Class: com.es.DelShopFlow
+Main-Class: com.es.ShopFlowTask
 
