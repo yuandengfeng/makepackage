@@ -134,6 +134,7 @@ public class DateUtil {
     public static void main(String[] args) throws ParseException {
 
 //        System.out.println(Integer.MAX_VALUE);
+        /**
         String firstday="2016-11-04";
         for(int i=0;i<177;i++)
         {
@@ -144,6 +145,9 @@ public class DateUtil {
         }
         String yesterday = DateUtil.getDayOfYesterday();
         System.out.println(yesterday);
+         **/
+        long l=dateToStamp("2017-08-24 06:44:56");
+        System.out.println(l);
 
 
 //        String yesterday="2016-11-13";

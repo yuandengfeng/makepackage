@@ -1,5 +1,7 @@
 package Main;
 
+import org.apache.commons.io.FileUtils;
+
 import java.io.File;
 import java.io.IOException;
 import java.text.DateFormat;
@@ -29,8 +31,26 @@ public class Test3 {
         }
         return sb.toString();
     }
+    public static List<String> getLines(String file) {
+        File f=new File(file);
+        List<String> lines=null;
+        try {
+            lines= FileUtils.readLines(f,"utf-8");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return lines;
+    }
 
     public static void main(String[] args) throws IOException {
+
+        List<String> list=getLines("F:\\tt");
+        for(String str :list){
+            System.out.println(str);
+            System.out.println(str.split(" ")[4]);
+        }
+
+        /**
 //        System.out.println(System.getProperty("user.dir"))
 
 //        DateFormat df = new SimpleDateFormat("yyMMDDHHmmss");
@@ -54,6 +74,7 @@ public class Test3 {
         System.out.println(list1);
         list2.clear();
         System.out.println(list1);
+         **/
 
     }
 }

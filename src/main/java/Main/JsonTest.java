@@ -4,6 +4,11 @@ package Main;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+
 
 /**
  * Created by Administrator on 2016/8/2.
@@ -11,8 +16,44 @@ import net.sf.json.JSONObject;
 public class JsonTest {
 
 
-    public static void main(String[] args)
-    {
+
+    public static HashMap<String, Object> toMap(JSONObject object) throws Exception {
+        HashMap<String, Object> map = new HashMap<String, Object>();
+
+        Iterator<String> keysItr = object.keys();
+        while(keysItr.hasNext()) {
+            String key = keysItr.next();
+            Object value = object.get(key);
+
+            if(value instanceof JSONArray) {
+                value = toList((JSONArray) value);
+            }
+
+            else if(value instanceof JSONObject) {
+                value = toMap((JSONObject) value);
+            }
+            map.put(key, value);
+        }
+        return map;
+    }
+    public static List<Object> toList(JSONArray array) throws Exception {
+        List<Object> list = new ArrayList<Object>();
+        for(int i = 0; i < array.size(); i++) {
+            Object value = array.get(i);
+            if(value instanceof JSONArray) {
+                value = toList((JSONArray) value);
+            }
+
+            else if(value instanceof JSONObject) {
+                value = toMap((JSONObject) value);
+            }
+            list.add(value);
+        }
+        return list;
+    }
+
+
+    public static void main(String[] args) throws Exception {
         JSONObject root = new JSONObject();
         root.put("cat","it");
         JSONObject lan1 = new JSONObject();
@@ -37,6 +78,7 @@ public class JsonTest {
         root.put("lan",array);
 
         System.out.println(root.toString());
+        System.out.println("map: "+toMap(root));
 
         JSONArray array1 = new JSONArray();
 

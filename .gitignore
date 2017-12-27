@@ -3,7 +3,6 @@
 target/
 build/
 out/
-target/
 # Package Files #
 *.class
 *.jar
