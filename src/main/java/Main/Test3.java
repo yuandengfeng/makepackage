@@ -1,5 +1,6 @@
 package Main;
 
+import net.sf.json.JSONObject;
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
@@ -44,12 +45,9 @@ public class Test3 {
 
     public static void main(String[] args) throws IOException {
 
-        List<String> list=getLines("F:\\tt");
-        for(String str :list){
-            System.out.println(str);
-            System.out.println(str.split(" ")[4]);
-        }
-
+        String str="{\"gameprogress\":\"7\",\"itemlist\":\"[]\",\"towerlist\":\"[]\",\"syntinfolist\":\"[]\",\"dailymissiontime\":\"636616542780000000\",\"dailymissionlist\":\"[{\"MissionID\":\"Mission001\",\"RewardID\":\"Item001\",\"RewardCount\":4,\"Count\":21,\"GetReward\":false,\"FinishCount\":0},{\"MissionID\":\"Mission004\",\"RewardID\":\"Item001\",\"RewardCount\":6,\"Count\":20,\"GetReward\":false,\"FinishCount\":0},{\"MissionID\":\"Mission003\",\"RewardID\":\"Item003\",\"RewardCount\":1,\"Count\":7,\"GetReward\":false,\"FinishCount\":0}]\",\"activereward\":\"[]\",\"signinfo\":\"{\"SignCount\":5,\"CurrentCount\":0,\"SignTime\":636813311850000000,\"CurrentMonth\":\"2018y12m\",\"Enable\":false}\",\"signinfolist\":\"[]\",\"rewardlist\":\"[]\",\"otherlist\":\"[{\"ID\":\"a1\",\"CurrentCount\":1616,\"Level\":3,\"Finished\":true},{\"ID\":\"a2\",\"CurrentCount\":150,\"Level\":3,\"Finished\":true},{\"ID\":\"a3\",\"CurrentCount\":1331,\"Level\":3,\"Finished\":false},{\"ID\":\"a4\",\"CurrentCount\":1388,\"Level\":2,\"Finished\":false}]\",\"othertext\":\"{\"CardList\":[],\"TowerList\":null,\"TelescopeList\":null,\"NextUpdateTime\":636813304451810000}\",\"id\":\"2eb88c07bcfa4c9c88bcf38bb26080b5\"}";
+        JSONObject data =JSONObject.fromObject(str);
+        System.out.println(data.getString("dailymissionlist"));
         /**
 //        System.out.println(System.getProperty("user.dir"))
 

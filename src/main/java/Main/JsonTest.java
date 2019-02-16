@@ -77,13 +77,13 @@ public class JsonTest {
         array.add(lan3);
         root.put("lan",array);
 
-        System.out.println(root.toString());
+        System.out.println("JsonRoot:  "+root.toString());
         System.out.println("map: "+toMap(root));
 
         JSONArray array1 = new JSONArray();
 
         array1 = root.getJSONArray("lan");
-        System.out.println(array1.toString());
+        System.out.println("lan array1: "+array1.toString());
         System.out.println(System.currentTimeMillis());
 
     }
